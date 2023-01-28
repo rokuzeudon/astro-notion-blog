@@ -1,5 +1,7 @@
 .container {
   display: flex;
+  margin: auto;
+  max-width: 1200px;
   justify-content: space-between;
 }
 @media (max-width: 640px) {
